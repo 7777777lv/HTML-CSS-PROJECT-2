@@ -4,6 +4,8 @@ h1{
 *{
   text-align: center;
 }
-i{
+.hello{
     font-size: 50px;
+    text-align: center;
+    color: coral;
 }
