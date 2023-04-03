@@ -10,6 +10,7 @@
 }
 .header.navbar-shrink{
   height: 100px;
+  box-shadow: 0 5px 5px -2px white;
 }
 .header-container {
   height: 100%;

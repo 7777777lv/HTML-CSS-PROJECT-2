@@ -6,12 +6,13 @@
     background-image: url(../images/about-sec1-img.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+    padding: 250px 0 200px;
 }
 .about-container{
     display: flex;
     justify-content: space-between;
     /* align-items: center; */
-    padding: 50px 20px 120px;
+    padding: 250px 20px 120px;
 }
 .about-left h1{
     font-weight: 700;
@@ -46,6 +47,7 @@
     background-image: url(../images/sec-2-back.png);
     background-repeat: no-repeat;
     background-position: top left;
+    padding: 100px 0;
 }
 .directors-container{
     padding: 140px 20px;
@@ -103,7 +105,7 @@
 .grid-card svg{
     margin: -30px auto 0;
     transition: 0.5s;
-    z-index: 10;
+    z-index: 2;
 }
 .grid-card:hover svg{
     transform: rotate(135deg);
@@ -122,6 +124,7 @@
     background-image: url(../images/clients-bg.png);
     background-repeat: no-repeat;
     background-position: top left;
+    padding: 100px 0;
 }
 .client-container{
     padding: 140px 20px 150px;

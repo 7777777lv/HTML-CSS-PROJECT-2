@@ -1,11 +1,11 @@
 @import url(global.css);
 
 #contact {
-  padding: 70px 0 130px;
+  padding: 250px 0 150px;
   background: #014e56;
   background-image: url(../images/contact-top.png);
   background-repeat: no-repeat;
-  background-position-y: 20%;
+  background-position-y: 30%;
 }
 
 .contact-container {
