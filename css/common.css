@@ -16,3 +16,16 @@
   li {
     list-style-type: none;
   }
+  html {
+    scroll-behavior: smooth;
+  }
+
+  :root {
+    --maxWidth:1150px;
+  }
+
+  .container {
+    max-width: var(--maxWidth);
+    padding: 0 20px;
+    margin: 0 auto;
+  }

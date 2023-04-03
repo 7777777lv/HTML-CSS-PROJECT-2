@@ -1,11 +1,1 @@
-h1{
-    color: rgb(84, 65, 152);
-}
-*{
-  text-align: center;
-}
-.hello{
-    font-size: 50px;
-    text-align: center;
-    color: coral;
-}
+@import url(global.css);
