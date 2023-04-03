@@ -1,0 +1,31 @@
+.footer-red{
+    height: 200px;
+    background-color: #F67E7E;
+}
+.red-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.red-content h1{
+    font-weight: 700;
+    font-size: 48px;
+    color: #012F34;
+}
+.red-content a{
+    color: #012F34;
+    border: 2px solid #012F34;
+    padding: 10px 30px;
+    border-radius: 24px;
+    font-weight: 600;
+    font-size: 18px;
+    transition: 0.5s;
+}
+.red-content a:hover{
+    color: white;
+    background-color: #012F34;
+}
+.footer-contact{
+    display: flex;
+    align-items: center;
+}
